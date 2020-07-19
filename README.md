@@ -17,3 +17,11 @@ g++ -o novo_nome arquivo.cpp
 ### Compilar códigos em Python
 
 python arquivo.py
+
+### Compilar códigos em GO
+
+go run arquivo.go	ou
+
+go build arquivo.go
+
+./arquivo
