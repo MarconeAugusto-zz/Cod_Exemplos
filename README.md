@@ -13,3 +13,7 @@ g++ -o novo_nome arquivo.cpp
 
 ./novo_nome
 
+
+### Compilar códigos em Python
+
+python arquivo.py
