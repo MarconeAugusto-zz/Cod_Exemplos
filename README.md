@@ -19,7 +19,7 @@ Repositório com exemplos de códigos em diferentes linguagens
 `$ python arquivo.py`
 
 
-### Compilar códigos em Python
+### Compilar códigos em Java
 
 `$ javac arquivo.java`
 
