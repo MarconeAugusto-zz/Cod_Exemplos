@@ -16,7 +16,7 @@ Repositório com exemplos de códigos em diferentes linguagens
 
 ### Compilar códigos em Python
 
-`$ python arquivo.py`
+`$ python3 arquivo.py`
 
 
 ### Compilar códigos em Java
