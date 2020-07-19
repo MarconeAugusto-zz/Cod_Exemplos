@@ -3,9 +3,9 @@ Repositório com exemplos de códigos em diferentes linguagens
 
 ### Compilar códigos em C
 
-'$ gcc -o novo_nome arquivo.c'
+`$ gcc -o novo_nome arquivo.c`
 
-'$ ./novo_nome'
+`$ ./novo_nome`
 
 ### Compilar códigos em C++
 
