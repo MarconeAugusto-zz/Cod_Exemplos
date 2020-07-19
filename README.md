@@ -1,7 +1,7 @@
 # Exemplos de Códigos
 Repositório com exemplos de códigos em diferentes linguagens
 
-### Compilar códigos em C
+####Compilar códigos em C
 
 '$ gcc -o novo_nome arquivo.c'
 
