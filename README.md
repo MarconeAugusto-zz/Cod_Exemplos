@@ -18,6 +18,13 @@ Repositório com exemplos de códigos em diferentes linguagens
 
 `$ python arquivo.py`
 
+
+### Compilar códigos em Java
+
+`$ javac arquivo.java`
+
+`$ java arquivo`
+
 ### Compilar códigos em GO
 
 `$ go run arquivo.go`	
