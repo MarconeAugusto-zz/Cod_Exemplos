@@ -1,11 +1,12 @@
 # Exemplos de Códigos
 Repositório com exemplos de códigos em diferentes linguagens
 
-Compilar códigos em [C][https://github.com/MarconeAugusto/Cod_Exemplos/tree/master/C]
+### Compilar códigos em C
 
-`$ gcc -o novo_nome arquivo.c`
-
-`$ ./novo_nome`
+```sh
+$ gcc -o novo_nome arquivo.c`
+$ ./novo_nome`
+```
 
 ### Compilar códigos em C++
 
