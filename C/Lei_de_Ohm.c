@@ -8,11 +8,11 @@ float IdadoVR(float pV, float pR){
 	return pV/pR;
 }
 
-float RdadoVP(float pV, float pI){
+float RdadoVI(float pV, float pI){
  	return pV/pI;
 }
 
-float RdadoVR(float pV, float pP){
+float RdadoVP(float pV, float pP){
  	return (pV*pV)/pP;
 }
 
@@ -59,7 +59,7 @@ int main(){
 				scanf("%f",&V);
 				printf("Digite I:\n");
 				scanf("%f",&I);
-				R = RdadoVR (V,I);
+				R = RdadoVI (V,I);
 				printf("Valor de R = %f\n",R);
 				break;
 			case 5:
