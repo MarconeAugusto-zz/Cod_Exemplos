@@ -10,28 +10,29 @@ $ ./novo_nome`
 
 ### Compilar códigos em C++
 
-`$ g++ -o novo_nome arquivo.cpp`
-
-`$ ./novo_nome`
-
+```sh
+$ g++ -o novo_nome arquivo.cpp`
+$ ./novo_nome`
+```
 
 ### Compilar códigos em Python
 
-`$ python3 arquivo.py`
-
+```sh
+$ python3 arquivo.py`
+```
 
 ### Compilar códigos em Java
-
-`$ javac arquivo.java`
-
-`$ java arquivo`
+```sh
+$ javac arquivo.java`
+$ java arquivo`
+```
 
 ### Compilar códigos em GO
-
-`$ go run arquivo.go`	
-
+```sh
+$ go run arquivo.go`	
+```
 ou
-
-`$ go build arquivo.go`
-
-`$ ./arquivo`
+```sh
+$ go build arquivo.go`
+$ ./arquivo`
+```
